@@ -31,13 +31,7 @@ const Navbar = () => {
                 </Link>
 
                 <button className='qt'>Get a free Quote</button>
-
-
-
             </div>
-
-
-
 
         </div>
     );

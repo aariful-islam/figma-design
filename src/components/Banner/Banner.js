@@ -9,7 +9,7 @@ const Banner = () => {
             <h1 className='banner-description'>consectetur adipiscing elit. Sed <br /> eu pharetra.</h1>
             <p className='banner-sub-description'>consectetur adipiscing elit. Sed eu pharetra ante. Nullam <br /> tempus eget ex sit amet congue</p>
             <button className='contact-btn'>conatact us</button>
-            
+
         </div>
     );
 };
